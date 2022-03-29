@@ -21,6 +21,8 @@
 
 * Websites
   * [Github](https://github.com/mathewosad/Text-Editor)
+  
+  * [heroku](https://salty-lake-48624.herokuapp.com/)
 
 ## Screenshots
 
